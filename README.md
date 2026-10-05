@@ -32,13 +32,21 @@ I reconciled shipment totals against their component costs and checked the per-k
 
 *All table values are modeled economic landed cost in AUD/kg. Different forms, order sizes, routes, and dates prevent a direct product-opportunity ranking. Low/Base/High are source-model assumption labels, not statistical confidence intervals.*
 
+![Seven-product Low, Base, and High modeled economic costs in AUD per kilogram](charts/seven_product_cost_scenarios.svg)
+
 ## Little Millet case study
 
 The detailed case uses **5,000 kg of dehulled Little Millet** shipped by sea LCL to Melbourne and delivered to an illustrative warehouse. Its Base-case economic cost is **AUD 13,126.38**, or **AUD 2.625/kg**. Goods account for AUD 7,925.50 (60.4%); freight and insurance for AUD 2,300.88 (17.5%); compliance and border costs for AUD 800.00 (6.1%); and destination handling and delivery for AUD 2,100.00 (16.0%). Non-product costs therefore represent **39.6%** of the modeled economic total.
 
+![Little Millet Base-case economic cost composition by expense group](charts/little_millet_cost_composition.svg)
+
 The model cash need is **AUD 14,149.02**. Its AUD 1,022.64 difference from economic cost is the source model's import-GST assumption. This is a modeled total, not a payment calendar or a confirmed tax determination.
 
+![Little Millet economic cost and modeled cash need, including assumed import GST](charts/little_millet_cash_bridge.svg)
+
 For the same 5,000 kg, the saved route cases are **AUD 2.625/kg for sea LCL**, **AUD 3.379/kg for sea FCL**, and **AUD 10.138/kg for air**. FCL is about 28.7% above LCL, and air is about 3.86 times LCL in these specific assumptions. Shipment-specific quotations are needed before selecting a route.
+
+![Little Millet modeled transport alternatives at the same five-ton order size](charts/little_millet_transport_scenarios.svg)
 
 Two Australian online listings saved on **4 October 2026** show 1 kg Little Millet packs at **AUD 5.99 each**: [ICS at Vel Spices](https://velspices.com.au/products/ics-little-millet-1kg) and [Aachi at Grocerz](https://www.grocerz.com.au/product/aachi-little-millet-1kg). Their dehulling status was not established in the saved evidence. These retail observations are not wholesale buyer quotes, a market average, or a basis for calculating margin from the landed-cost model.
 
