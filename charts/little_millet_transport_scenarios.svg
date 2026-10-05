@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="chart-title chart-desc">
+<title id="chart-title">Little Millet transport alternatives</title>
+<desc id="chart-desc">Three zero-based bars showing 5,000 kilogram modeled economic cost per kilogram: sea LCL 2.625, sea FCL 3.379, and air 10.138 Australian dollars.</desc>
+<rect width="1200" height="490" fill="#FFFFFF"/>
+<text x="60.0" y="55.0" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="bold" text-anchor="start">Little Millet: transport alternatives</text>
+<text x="60.0" y="89.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">Same 5,000 kg order in each original model case | AUD per kg</text>
+<line x1="220.0" y1="126.0" x2="220.0" y2="381.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="220.0" y="415.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">0</text>
+<line x1="360.0" y1="126.0" x2="360.0" y2="381.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="360.0" y="415.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">2</text>
+<line x1="500.0" y1="126.0" x2="500.0" y2="381.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="500.0" y="415.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">4</text>
+<line x1="640.0" y1="126.0" x2="640.0" y2="381.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="640.0" y="415.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">6</text>
+<line x1="780.0" y1="126.0" x2="780.0" y2="381.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="780.0" y="415.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">8</text>
+<line x1="920.0" y1="126.0" x2="920.0" y2="381.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="920.0" y="415.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">10</text>
+<line x1="1060.0" y1="126.0" x2="1060.0" y2="381.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="1060.0" y="415.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">12</text>
+<text x="188.0" y="192.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="end">Sea LCL</text>
+<rect x="220.0" y="158.0" width="183.8" height="55.0" rx="0" fill="#238B87"/>
+<text x="417.8" y="194.0" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="start">2.625</text>
+<text x="188.0" y="281.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="end">Sea FCL</text>
+<rect x="220.0" y="247.0" width="236.5" height="55.0" rx="0" fill="#8198AA"/>
+<text x="470.5" y="283.0" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="start">3.379</text>
+<text x="188.0" y="370.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="end">Air</text>
+<rect x="220.0" y="336.0" width="709.7" height="55.0" rx="0" fill="#17324D"/>
+<text x="943.7" y="372.0" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="bold" text-anchor="start">10.138</text>
+<text x="60.0" y="467.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" text-anchor="start">Source: Manager Dashboard!A45:E49. Indicative 5-ton cases; live freight quotations may differ.</text>
+</svg>

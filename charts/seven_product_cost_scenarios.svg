@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="chart-title chart-desc">
+<title id="chart-title">Seven-product cost scenarios</title>
+<desc id="chart-desc">Low, Base, and High modeled economic landed costs in Australian dollars per kilogram for seven products. Different order conditions apply.</desc>
+<rect width="1200" height="690" fill="#FFFFFF"/>
+<text x="60.0" y="55.0" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="bold" text-anchor="start">Seven-product cost scenarios</text>
+<text x="60.0" y="89.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">Original modeled economic landed cost | AUD per kg</text>
+<circle cx="485.0" cy="125.0" r="9" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<text x="504.0" y="131.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" text-anchor="start">Low</text>
+<rect x="600.0" y="116.0" width="18.0" height="18.0" rx="0" fill="#DBA640"/>
+<text x="629.0" y="131.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" text-anchor="start">Base</text>
+<polygon points="731.0,115.0 721.0,135.0 741.0,135.0" fill="#17324D"/>
+<text x="753.0" y="131.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" text-anchor="start">High</text>
+<line x1="285.0" y1="170.0" x2="285.0" y2="570.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="285.0" y="602.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">0</text>
+<line x1="409.0" y1="170.0" x2="409.0" y2="570.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="409.0" y="602.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">2</text>
+<line x1="533.0" y1="170.0" x2="533.0" y2="570.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="533.0" y="602.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">4</text>
+<line x1="657.0" y1="170.0" x2="657.0" y2="570.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="657.0" y="602.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">6</text>
+<line x1="781.0" y1="170.0" x2="781.0" y2="570.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="781.0" y="602.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">8</text>
+<line x1="905.0" y1="170.0" x2="905.0" y2="570.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="905.0" y="602.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">10</text>
+<line x1="1029.0" y1="170.0" x2="1029.0" y2="570.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="1029.0" y="602.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">12</text>
+<line x1="1153.0" y1="170.0" x2="1153.0" y2="570.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="1153.0" y="602.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">14</text>
+<text x="719.0" y="625.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" text-anchor="middle">AUD/kg</text>
+<text x="259.0" y="205.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="end">Kodo</text>
+<rect x="424.2" y="189.0" width="18.0" height="18.0" rx="0" fill="#DBA640"/>
+<text x="259.0" y="264.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="end">Ragi</text>
+<line x1="391.9" y1="257.0" x2="511.1" y2="257.0" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="391.9" cy="257.0" r="9" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="429.6" y="248.0" width="18.0" height="18.0" rx="0" fill="#DBA640"/>
+<polygon points="511.1,246.0 500.1,268.0 522.1,268.0" fill="#17324D"/>
+<text x="259.0" y="323.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="end">Bajra</text>
+<line x1="379.5" y1="316.0" x2="514.7" y2="316.0" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="379.5" cy="316.0" r="9" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="428.8" y="307.0" width="18.0" height="18.0" rx="0" fill="#DBA640"/>
+<polygon points="514.7,305.0 503.7,327.0 525.7,327.0" fill="#17324D"/>
+<text x="259.0" y="382.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="end">Sorghum</text>
+<line x1="373.4" y1="375.0" x2="403.1" y2="375.0" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="373.4" cy="375.0" r="9" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<polygon points="403.1,364.0 392.1,386.0 414.1,386.0" fill="#17324D"/>
+<text x="259.0" y="441.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="end">Basmati</text>
+<line x1="387.3" y1="434.0" x2="434.1" y2="434.0" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="387.3" cy="434.0" r="9" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="396.4" y="425.0" width="18.0" height="18.0" rx="0" fill="#DBA640"/>
+<polygon points="434.1,423.0 423.1,445.0 445.1,445.0" fill="#17324D"/>
+<text x="259.0" y="500.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="end">Red chilli</text>
+<line x1="706.9" y1="493.0" x2="1086.3" y2="493.0" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="706.9" cy="493.0" r="9" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="801.5" y="484.0" width="18.0" height="18.0" rx="0" fill="#DBA640"/>
+<polygon points="1086.3,482.0 1075.3,504.0 1097.3,504.0" fill="#17324D"/>
+<text x="259.0" y="559.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="normal" text-anchor="end">Little millet</text>
+<line x1="412.4" y1="552.0" x2="533.2" y2="552.0" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="412.4" cy="552.0" r="9" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="438.8" y="543.0" width="18.0" height="18.0" rx="0" fill="#DBA640"/>
+<polygon points="533.2,541.0 522.2,563.0 544.2,563.0" fill="#17324D"/>
+<text x="60.0" y="665.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" text-anchor="start">Source: Manager Dashboard!A8:I15. Missing cases are absent; scenarios are assumptions, not confidence intervals.</text>
+</svg>

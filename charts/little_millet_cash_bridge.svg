@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="chart-title chart-desc">
+<title id="chart-title">Little Millet economic cost and modeled cash</title>
+<desc id="chart-desc">Two bars on a zero-based scale: economic cost 13,126.38 Australian dollars and cash need 14,149.02 Australian dollars. The increment of 1,022.64 Australian dollars is modeled import GST.</desc>
+<rect width="1200" height="460" fill="#FFFFFF"/>
+<text x="60.0" y="55.0" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="bold" text-anchor="start">Little Millet: cost and modeled cash need</text>
+<text x="60.0" y="89.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">Base case | 5,000 kg sea LCL | AUD per shipment</text>
+<line x1="255.0" y1="126.0" x2="255.0" y2="318.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="255.0" y="347.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">0</text>
+<line x1="455.0" y1="126.0" x2="455.0" y2="318.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="455.0" y="347.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">4k</text>
+<line x1="655.0" y1="126.0" x2="655.0" y2="318.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="655.0" y="347.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">8k</text>
+<line x1="855.0" y1="126.0" x2="855.0" y2="318.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="855.0" y="347.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">12k</text>
+<line x1="1055.0" y1="126.0" x2="1055.0" y2="318.0" stroke="#DDE5E9" stroke-width="1"/>
+<text x="1055.0" y="347.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">16k</text>
+<text x="225.0" y="186.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">Economic cost</text>
+<text x="225.0" y="277.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">Model cash need</text>
+<rect x="255.0" y="151.0" width="656.3" height="53.0" rx="0" fill="#17324D"/>
+<rect x="255.0" y="242.0" width="656.3" height="53.0" rx="0" fill="#17324D"/>
+<rect x="911.3" y="242.0" width="51.1" height="53.0" rx="0" fill="#DBA640"/>
+<text x="927.3" y="185.0" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="start">AUD 13,126.38</text>
+<text x="978.5" y="276.0" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="start">AUD 14,149.02</text>
+<rect x="290.0" y="373.0" width="19.0" height="19.0" rx="0" fill="#17324D"/>
+<text x="321.0" y="390.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" text-anchor="start">Economic cost</text>
+<rect x="560.0" y="373.0" width="19.0" height="19.0" rx="0" fill="#DBA640"/>
+<text x="591.0" y="390.0" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" text-anchor="start">Modeled import GST: AUD 1,022.64</text>
+<text x="60.0" y="440.0" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="normal" text-anchor="start">Source: Manager Dashboard!N22:O27. GST applicability and recoverability need confirmation.</text>
+</svg>
