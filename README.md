@@ -1,61 +1,94 @@
 # Australia Product Intelligence & Landed Cost Dashboard
 
-An interim product-intelligence and commercial analysis project for **Liberty Exports** covering seven India-to-Australia food-product cases. The work consolidates separate research models into a manager-facing cost view and a six-page review report. It is designed to make assumptions, cost drivers, and the next evidence required for a shipment decision visible.
+**Making import costs, cash requirements and evidence gaps clear for management.**
 
-**Report date:** 5 October 2026. Each product retains its original research date. All modeled costs are **Indicative**; they are not supplier quotations, live freight rates, or approved import costs.
+**Business problem:** Liberty Exports' product research was spread across separate spreadsheets with different shipment sizes, cost assumptions and incomplete scenarios. Management needed a consistent way to review the likely shipment budget, understand the cash required and identify what still needed confirmation.
 
-[Read the six-page manager review report (PDF)](Liberty_Australia_Manager_Dashboard_Review_Report_SybilYan_v1.pdf)
+**My contribution:** I consolidated eight India-to-Australia product studies, rebuilt the cost calculations around editable inputs, corrected calculation and scenario-selection issues, and translated the findings into two Excel dashboards and an annotated management report.
 
-## Business questions
+**Completed result:** A traceable decision-support model showing estimated costs, major cost drivers, cash differences and commercial verification priorities. All cost figures remain **Indicative**; commercial outcomes have not yet been measured.
 
-- What does each original Low, Base, or High scenario imply for economic landed cost per kilogram?
-- Which costs beyond the goods value drive the result?
-- How does modeled cash need differ from economic cost?
-- What changes when the transport mode changes at a fixed order quantity?
-- Which market observations are useful, and what must be confirmed before a commercial decision?
+| Product cases | Revised primary scenarios | Management dashboards | Review report |
+|---:|---:|---:|---:|
+| **8** | **24** | **2** | **8 pages** |
 
-## Scope and approach
+[Read the manager review report](portfolio-v4/Liberty_Australia_Manager_Dashboard_Review_Report_SybilYan_v2.pdf) · [Explore the static 24-case extract (CSV)](portfolio-v4/v4_cost_scenario_outputs.csv)
 
-The analysis covers Kodo millet, Ragi, Bajra, Sorghum flour, Basmati rice, red chilli powder, and Little Millet. I aligned the source models to AUD/kg while retaining each product's **form, order quantity, transport mode, exchange-rate direction, and research date**. The resulting summary contains 18 original cost scenarios. Missing cases remain unavailable rather than being estimated.
+Prepared by **Sybil Yan** for manager review at **Liberty Exports**. Analytical revision: **17 October 2026**. Original research dates are retained for each product; this README was updated on 18 October 2026.
 
-I reconciled shipment totals against their component costs and checked the per-kilogram calculations, currency conversions, cash differences, and chart labels. The consolidated model documents a Kodo cost-reference correction and insurance-base corrections for two alternative Little Millet routes; the original source workbooks were retained.
+## Business problems addressed
 
-| Product and form | Original quantity / route | Low | Base | High |
-|---|---|---:|---:|---:|
-| Kodo, dehulled grain | 5,000 kg / sea LCL | N/A | 2.391 | N/A |
-| Ragi, whole grain | 5,000 kg / sea LCL | 1.724 | 2.477 | 3.647 |
-| Bajra, whole raw grain | 5,000 kg / sea LCL | 1.525 | 2.465 | 3.705 |
-| Sorghum, food-grade flour | 20,000 kg / sea FCL | 1.426 | N/A | 1.906 |
-| Basmati, 1121 steam milled rice | 24,000 kg / sea FCL | 1.650 | 1.941 | 2.405 |
-| Red chilli, ground dried | 1,000 kg / sea LCL | 6.806 | 8.476 | 12.924 |
-| Little Millet, dehulled grain | 5,000 kg / sea LCL | 2.055 | 2.625 | 4.003 |
+| Business problem | What I changed | What management can now review |
+|---|---|---|
+| Fragmented research made comparisons difficult. | Combined product, cost and market evidence; standardised the overview to **AUD per shipped kg**, retaining the original product forms, quantities, routes and dates. | Eight product cases in one reporting structure, with the context needed to interpret each comparison. |
+| Calculation discrepancies and missing scenarios weakened the cost analysis. | Reconciled component costs, preserved the Little Millet insurance corrections, repaired route selection and Cardamom's duty-to-cash logic, and documented new Kodo and Sorghum planning cases. | **24 revised primary cases**, supported route alternatives and a correction trail alongside **21 historical cases**. |
+| Economic cost and shipment cash needs were easy to confuse. | Separated pre-GST costs, duty, import GST, local-service GST, assumed credits and non-recoverable amounts. | A clear explanation of the modelled cost-to-cash difference and the tax assumptions requiring confirmation. |
+| Management needed to know which expenses warranted further enquiry. | Broke costs into goods, freight/insurance, compliance/government, destination and other expenses; exposed FOB/FCA inclusion assumptions. | The main cost drivers and the supplier, forwarder or broker evidence needed to test them. |
+| Retail prices and broad trade statistics could be mistaken for proven demand. | Refreshed **16 retail references**, retained pack, specification and date limitations, and kept separate trade-category series through **2025**. | Market context with clear limits; achievable wholesale prices and buyer demand remain open questions. |
+| Outstanding evidence was difficult to communicate. | Created product-level verification and action registers, supported by an eight-page report with findings, interpretations, limitations and source locations. | A structured follow-up list for import pathways, suppliers, logistics, tax, buyers and labels. |
 
-*All table values are modeled economic landed cost in AUD/kg. Different forms, order sizes, routes, and dates prevent a direct product-opportunity ranking. Low/Base/High are source-model assumption labels, not statistical confidence intervals.*
+## Eight-product cost overview
 
-![Seven-product Low, Base, and High modeled economic costs in AUD per kilogram](charts/seven_product_cost_scenarios.svg)
+The scope covers **Kodo millet, Ragi, Bajra, Sorghum flour, Basmati rice, Red Chilli Powder, Little Millet and Cardamom**.
 
-## Little Millet case study
+![Eight-product revised Low, Base and High economic costs per shipped kilogram, with explicitly separate grain and spice scales](portfolio-v4/eight_product_cost_scenarios.svg)
 
-The detailed case uses **5,000 kg of dehulled Little Millet** shipped by sea LCL to Melbourne and delivered to an illustrative warehouse. Its Base-case economic cost is **AUD 13,126.38**, or **AUD 2.625/kg**. Goods account for AUD 7,925.50 (60.4%); freight and insurance for AUD 2,300.88 (17.5%); compliance and border costs for AUD 800.00 (6.1%); and destination handling and delivery for AUD 2,100.00 (16.0%). Non-product costs therefore represent **39.6%** of the modeled economic total.
+**How to read this:** Compare scenarios within each product's shipment context. Different product forms, order sizes, destinations and research dates prevent a direct opportunity ranking by unit cost. Low/Base/High are planning assumptions, not statistical confidence intervals.
 
-![Little Millet Base-case economic cost composition by expense group](charts/little_millet_cost_composition.svg)
+- Kodo Low/High are new **price-only sensitivities** based on the original report's USD 0.70–0.95/kg range; other revised Base-case assumptions are held constant.
+- Sorghum Base is a new **input-midpoint planning case**, clearly distinguished from an original Base result or the average of final totals.
+- Cardamom retains its **1,000 kg / FCA / sea LCL / Sydney** context. The overview uses shipped kilograms; its separate saleable-kg calculation retains the source model's **assumed 99% yield**.
+- Unsupported product/scenario/route combinations display **Not available**. The model does not silently substitute another case.
 
-The model cash need is **AUD 14,149.02**. Its AUD 1,022.64 difference from economic cost is the source model's import-GST assumption. This is a modeled total, not a payment calendar or a confirmed tax determination.
+## Example: what the Little Millet model explains
 
-![Little Millet economic cost and modeled cash need, including assumed import GST](charts/little_millet_cash_bridge.svg)
+The default case is **5,000 kg of dehulled Little Millet, sea LCL to Melbourne**, with delivery to an illustrative warehouse 30 km from port. It retains the original 4 October 2026 research inputs and an AUD 1.441 per USD commercial conversion rate. The 17 October revision date does not indicate a new freight or FX quotation; actual customs valuation and FX still require confirmation.
 
-For the same 5,000 kg, the saved route cases are **AUD 2.625/kg for sea LCL**, **AUD 3.379/kg for sea FCL**, and **AUD 10.138/kg for air**. FCL is about 28.7% above LCL, and air is about 3.86 times LCL in these specific assumptions. Shipment-specific quotations are needed before selecting a route.
+| Revised Base-case measure | Model result |
+|---|---:|
+| Economic shipment cost | **AUD 13,247.38** |
+| Economic cost per shipped kg | **AUD 2.649** |
+| Model cash requirement | **AUD 13,492.38** |
+| Non-goods share of economic cost | **40.2%** |
 
-![Little Millet modeled transport alternatives at the same five-ton order size](charts/little_millet_transport_scenarios.svg)
+![Little Millet Base cost composition with amounts and shares](portfolio-v4/little_millet_cost_composition.svg)
 
-Two Australian online listings saved on **4 October 2026** show 1 kg Little Millet packs at **AUD 5.99 each**: [ICS at Vel Spices](https://velspices.com.au/products/ics-little-millet-1kg) and [Aachi at Grocerz](https://www.grocerz.com.au/product/aachi-little-millet-1kg). Their dehulling status was not established in the saved evidence. These retail observations are not wholesale buyer quotes, a market average, or a basis for calculating margin from the landed-cost model.
+The non-goods share makes freight, destination handling, clearance and delivery useful priorities for itemised quotations. The model identifies where to investigate; it does not demonstrate negotiated savings.
 
-## Deliverable
+![Little Millet bridge from economic cost to cash, separating import GST and local-service GST](portfolio-v4/little_millet_cash_bridge.svg)
 
-The [manager review report](Liberty_Australia_Manager_Dashboard_Review_Report_SybilYan_v1.pdf) contains five annotated figures across six A4 pages: a seven-product scenario overview, Little Millet cost composition, an economic-cost-to-cash bridge, transport alternatives, and retail price references. Each figure separates its finding, interpretation, limitation, and source. The final page maps reported values back to the original workbook sheets and cell ranges.
+The **AUD 245.00** difference is the model's local-service GST provision. Import GST is conditionally modelled at 0% for the proposed plain-food case, while full local-service GST recovery is assumed. Product-specific tax treatment, invoice allocation and the importer's credit entitlement still need confirmation. The revised cash figure reflects changed assumptions and is **not a realised saving**.
 
-## Evidence limits and next actions
+![Little Millet Base sea LCL, sea FCL and air transport comparisons at the same 5,000 kg quantity](portfolio-v4/little_millet_transport_scenarios.svg)
 
-Before using the analysis for a shipment or price decision, the business needs to confirm the exact product specifications and processing, applicable Australian import pathway and classification, GST treatment and recoverability, supplier test results and certifications, buyer and label requirements, and freight, broker, inspection, and delivery quotations. The public retailer observations are historical snapshots and may have changed.
+Under these dated inputs, FCL is approximately **28.4%** above LCL, while air is approximately **3.83 times** LCL. This comparison applies to the supported 5,000 kg Base routes; shipment-specific quotations are needed before choosing a mode.
 
-The report is an **interim management review**, not a purchase recommendation, import approval, or evidence of customer demand. Broader millet and ground-capsicum trade categories, where used in the source research, are proxies and should not be interpreted as demand for any one product in this portfolio.
+## My analysis and validation work
+
+- **Data consolidation and quality:** aligned product identities, shipment contexts, currencies, FX direction, cost categories and evidence dates; retained source references and historical results.
+- **Cost and scenario modelling:** built formula-driven inputs and cost calculations; separated economic cost from cash and conditional GST recovery; checked potential duplication of FOB/FCA origin charges.
+- **Management reporting:** developed two linked Excel views with **14 native charts** across nine worksheets, using one product/case/basis selector set and a separate trade-category selector.
+- **Response to feedback:** added Cardamom, repaired scenario linkage, documented the new planning cases and made commercial evidence gaps explicit.
+- **Verification:** reconciled saved results against independent arithmetic; tested **48 product/case/basis combinations** and **14 input changes**, including nonzero duty, GST recovery changes and missing inputs. The saved workbook scan found **no formula errors**. All eight PDF pages were rendered and visually reviewed.
+
+The project demonstrates **business analysis, Excel reporting, data validation, scenario analysis, commercial cost modelling, evidence evaluation and management communication**.
+
+## What still needs commercial validation
+
+| Open question | Evidence needed before progressing |
+|---|---|
+| Can the exact product be imported under the proposed conditions? | Botanical identity, processing and viability evidence; the current product-specific BICON branch, treatments or permits; final tariff classification. |
+| What will the shipment actually cost? | Valid supplier and itemised freight, CFS, broker, inspection and warehouse-delivery quotations; confirmed FOB/FCA inclusions. |
+| What tax applies, and can it be recovered? | Transaction-specific duty/GST treatment, customs valuation/FX, invoices and importer credit eligibility. |
+| Is there a buyer at a viable wholesale price? | Buyer specification, purchase interest, wholesale price basis, MOQ and label requirements. |
+
+These are follow-up requirements, not completed approvals. Retail prices are not wholesale quotations, and broad HS trade categories are not proof of demand for a particular proposed grade. No realised sales, profit, reporting-time reduction or cost-saving percentage is claimed.
+
+## Files and evidence
+
+- **Scenario outputs:** [static 24-case CSV extract](portfolio-v4/v4_cost_scenario_outputs.csv), taken from the final workbook with shipment context, evidence dates and source-cell references. `Not available` is preserved where the source fee/GST bundle cannot support a separate cash figure.
+- **Excel model structure:** the interactive workbook is retained locally. It contains `Dashboard`, `Manager Dashboard`, `Cost Inputs`, `Cost Build`, `Product Register`, `Cost Evidence`, `Market Evidence`, `Action Register` and `Sources & Definitions`. The two dashboard views use the same selections. The public CSV and report provide the scenario results and source map.
+- **Current report:** [v2 manager review, eight pages](portfolio-v4/Liberty_Australia_Manager_Dashboard_Review_Report_SybilYan_v2.pdf). Each analysis figure includes a finding, interpretation, limitation and source; page 8 maps the report back to workbook cells.
+- **Historical report:** [v1 manager review, six pages, 5 October 2026](Liberty_Australia_Manager_Dashboard_Review_Report_SybilYan_v1.pdf). This preserves the earlier seven-product review and its historical assumptions; the current results above use the revised model.
+
+**Decision supported:** review the shipment budget, understand funding needs and prioritise evidence collection before a commercial commitment.
