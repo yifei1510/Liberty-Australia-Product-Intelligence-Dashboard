@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="570" viewBox="0 0 1280 570" role="img" aria-labelledby="chart-title chart-desc">
+<title id="chart-title">Little Millet: same-order transport scenarios</title>
+<desc id="chart-desc">Revised indicative Base alternatives for 5,000 kilograms: Sea LCL AUD2.649 per shipped kilogram; Sea FCL AUD3.403; Air AUD10.158. Route-specific freight and insurance are modelled; local quotation scope remains unverified.</desc>
+<rect width="1280" height="570" fill="#FFFFFF"/>
+<text x="60.00" y="53.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="bold" text-anchor="start">Little Millet: same-order transport scenarios</text>
+<text x="60.00" y="87.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">Base | Same 5,000 kg order in every route | AUD per shipped kg | 17 October 2026</text>
+<line x1="230.00" y1="132.00" x2="230.00" y2="424.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="230.00" y="453.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">0</text>
+<line x1="372.00" y1="132.00" x2="372.00" y2="424.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="372.00" y="453.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">2</text>
+<line x1="514.00" y1="132.00" x2="514.00" y2="424.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="514.00" y="453.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">4</text>
+<line x1="656.00" y1="132.00" x2="656.00" y2="424.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="656.00" y="453.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">6</text>
+<line x1="798.00" y1="132.00" x2="798.00" y2="424.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="798.00" y="453.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">8</text>
+<line x1="940.00" y1="132.00" x2="940.00" y2="424.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="940.00" y="453.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">10</text>
+<line x1="1082.00" y1="132.00" x2="1082.00" y2="424.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="1082.00" y="453.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">12</text>
+<text x="199.00" y="189.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="normal" text-anchor="end">Sea LCL</text>
+<rect x="230.00" y="154.00" width="188.11" height="57.00" fill="#238B87"/>
+<text x="433.11" y="177.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start">2.649 AUD/kg</text>
+<text x="433.11" y="203.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" text-anchor="start">AUD 13,247.38 total</text>
+<text x="199.00" y="281.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="normal" text-anchor="end">Sea FCL</text>
+<rect x="230.00" y="246.00" width="241.63" height="57.00" fill="#8198AA"/>
+<text x="486.63" y="269.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start">3.403 AUD/kg</text>
+<text x="486.63" y="295.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" text-anchor="start">AUD 17,016.13 total</text>
+<text x="199.00" y="373.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="normal" text-anchor="end">Air</text>
+<rect x="230.00" y="338.00" width="721.20" height="57.00" fill="#17324D"/>
+<text x="966.20" y="361.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start">10.158 AUD/kg</text>
+<text x="966.20" y="387.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" text-anchor="start">AUD 50,788.77 total</text>
+<text x="60.00" y="502.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Source: v4 Cost Build!AB26:AD26, AB31:AD32. Revised indicative Base alternatives.</text>
+<text x="60.00" y="529.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Dated freight budgets; mode-specific terminal, inspection and delivery costs need quotations.</text>
+<text x="60.00" y="555.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start">This comparison does not establish rates for other quantities or a fully utilised container.</text>
+</svg>

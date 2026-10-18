@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="550" viewBox="0 0 1280 550" role="img" aria-labelledby="chart-title chart-desc">
+<title id="chart-title">Little Millet: economic cost composition</title>
+<desc id="chart-desc">Revised indicative Base sea LCL economic cost for a 5,000 kilogram shipment is AUD 13,247.38. Goods represent 59.8%, freight and insurance 17.4%, compliance and government 7.0%, and destination and delivery 15.9%, rounded independently.</desc>
+<rect width="1280" height="550" fill="#FFFFFF"/>
+<text x="60.00" y="53.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="bold" text-anchor="start">Little Millet: economic cost composition</text>
+<text x="60.00" y="87.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">Base | 5,000 kg | Sea LCL | Revised indicative | 17 October 2026</text>
+<text x="60.00" y="132.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start">Economic total: AUD 13,247.38 per shipment</text>
+<rect x="60.00" y="174.00" width="693.99" height="80.00" fill="#17324D"/>
+<text x="407.00" y="223.00" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="middle">59.8%</text>
+<rect x="753.99" y="174.00" width="201.48" height="80.00" fill="#238B87"/>
+<text x="854.73" y="223.00" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="middle">17.4%</text>
+<rect x="955.47" y="174.00" width="80.65" height="80.00" fill="#DBA640"/>
+<text x="995.79" y="223.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="middle">7.0%</text>
+<rect x="1036.11" y="174.00" width="183.89" height="80.00" fill="#8198AA"/>
+<text x="1128.06" y="223.00" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="middle">15.9%</text>
+<rect x="60.00" y="295.00" width="18.00" height="18.00" fill="#17324D"/>
+<text x="89.00" y="310.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">FOB goods</text>
+<text x="89.00" y="334.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start"></text>
+<text x="60.00" y="376.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start">AUD 7,925.50</text>
+<rect x="355.00" y="295.00" width="18.00" height="18.00" fill="#238B87"/>
+<text x="384.00" y="310.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">Freight +</text>
+<text x="384.00" y="334.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">insurance</text>
+<text x="355.00" y="376.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start">AUD 2,300.88</text>
+<rect x="650.00" y="295.00" width="18.00" height="18.00" fill="#DBA640"/>
+<text x="679.00" y="310.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">Compliance +</text>
+<text x="679.00" y="334.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">government</text>
+<text x="650.00" y="376.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start">AUD 921.00</text>
+<rect x="945.00" y="295.00" width="18.00" height="18.00" fill="#8198AA"/>
+<text x="974.00" y="310.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">Destination +</text>
+<text x="974.00" y="334.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">delivery</text>
+<text x="945.00" y="376.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" text-anchor="start">AUD 2,100.00</text>
+<text x="60.00" y="441.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Source: v4 Cost Build!I26:V26, AB26. Percentages round independently.</text>
+<text x="60.00" y="469.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Indicative allowances; no supplier, forwarder or broker quotation is represented.</text>
+<text x="60.00" y="497.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Economic cost excludes GST assumed recoverable; tax and credit eligibility need confirmation.</text>
+</svg>

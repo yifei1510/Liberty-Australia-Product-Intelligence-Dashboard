@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1020" viewBox="0 0 1280 1020" role="img" aria-labelledby="chart-title chart-desc">
+<title id="chart-title">Eight-product cost scenarios</title>
+<desc id="chart-desc">Revised indicative Low, Base and High economic costs per shipped kilogram. Cereals and millets use a zero-to-4.5 scale; spices use a separate zero-to-60 scale. These are assumption scenarios, not confidence intervals.</desc>
+<rect width="1280" height="1020" fill="#FFFFFF"/>
+<text x="60.00" y="53.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="bold" text-anchor="start">Eight-product cost scenarios</text>
+<text x="60.00" y="87.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="start">Revised indicative economic cost | AUD per shipped kg | Revision: 17 October 2026</text>
+<circle cx="480.00" cy="125.00" r="8" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<text x="500.00" y="131.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" text-anchor="start">Low</text>
+<rect x="642.00" y="117.00" width="16.00" height="16.00" fill="#DBA640"/>
+<text x="670.00" y="131.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" text-anchor="start">Base</text>
+<polygon points="830.00,116.00 821.00,133.00 839.00,133.00" fill="#17324D"/>
+<text x="850.00" y="131.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="normal" text-anchor="start">High</text>
+<text x="60.00" y="175.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start">Cereals and millet | axis: AUD 0 to 4.5/kg</text>
+<text x="980.00" y="175.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end">Low</text>
+<text x="1085.00" y="175.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end">Base</text>
+<text x="1190.00" y="175.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end">High</text>
+<line x1="340.00" y1="199.00" x2="340.00" y2="550.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="340.00" y="576.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">0</text>
+<line x1="460.00" y1="199.00" x2="460.00" y2="550.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="460.00" y="576.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">1</text>
+<line x1="580.00" y1="199.00" x2="580.00" y2="550.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="580.00" y="576.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">2</text>
+<line x1="700.00" y1="199.00" x2="700.00" y2="550.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="700.00" y="576.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">3</text>
+<line x1="820.00" y1="199.00" x2="820.00" y2="550.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="820.00" y="576.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">4</text>
+<line x1="880.00" y1="199.00" x2="880.00" y2="550.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="880.00" y="576.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">4.5</text>
+<line x1="340.00" y1="550.00" x2="880.00" y2="550.00" stroke="#8198AA" stroke-width="1"/>
+<text x="610.00" y="602.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">AUD per shipped kg</text>
+<text x="60.00" y="222.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start">Kodo</text>
+<text x="60.00" y="243.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start">Dehulled grain | 5,000 kg | Sea LCL</text>
+<line x1="586.86" y1="220.00" x2="632.46" y2="220.00" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="586.86" cy="220.00" r="8" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="606.22" y="212.00" width="16.00" height="16.00" fill="#DBA640"/>
+<polygon points="632.46,211.00 623.46,228.00 641.46,228.00" fill="#17324D"/>
+<text x="980.00" y="226.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">2.057</text>
+<text x="1085.00" y="226.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="end">2.285</text>
+<text x="1190.00" y="226.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">2.437</text>
+<text x="60.00" y="282.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start">Ragi</text>
+<text x="60.00" y="303.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start">Whole grain | 5,000 kg | Sea LCL</text>
+<line x1="546.90" y1="280.00" x2="777.59" y2="280.00" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="546.90" cy="280.00" r="8" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="629.28" y="272.00" width="16.00" height="16.00" fill="#DBA640"/>
+<polygon points="777.59,271.00 768.59,288.00 786.59,288.00" fill="#17324D"/>
+<text x="980.00" y="286.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">1.724</text>
+<text x="1085.00" y="286.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="end">2.477</text>
+<text x="1190.00" y="286.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">3.647</text>
+<text x="60.00" y="342.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start">Bajra</text>
+<text x="60.00" y="363.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start">Raw whole grain | 5,000 kg | Sea LCL</text>
+<line x1="522.98" y1="340.00" x2="784.61" y2="340.00" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="522.98" cy="340.00" r="8" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="627.81" y="332.00" width="16.00" height="16.00" fill="#DBA640"/>
+<polygon points="784.61,331.00 775.61,348.00 793.61,348.00" fill="#17324D"/>
+<text x="980.00" y="346.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">1.525</text>
+<text x="1085.00" y="346.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="end">2.465</text>
+<text x="1190.00" y="346.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">3.705</text>
+<text x="60.00" y="402.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start">Sorghum</text>
+<text x="60.00" y="423.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start">Food-grade flour | 20,000 kg | Sea FCL</text>
+<line x1="507.29" y1="400.00" x2="561.18" y2="400.00" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="507.29" cy="400.00" r="8" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="526.18" y="392.00" width="16.00" height="16.00" fill="#DBA640"/>
+<polygon points="561.18,391.00 552.18,408.00 570.18,408.00" fill="#17324D"/>
+<text x="980.00" y="406.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">1.394</text>
+<text x="1085.00" y="406.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="end">1.618</text>
+<text x="1190.00" y="406.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">1.843</text>
+<text x="60.00" y="462.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start">Basmati</text>
+<text x="60.00" y="483.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start">1121 steam rice | 24,000 kg | Sea FCL</text>
+<line x1="537.95" y1="460.00" x2="628.60" y2="460.00" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="537.95" cy="460.00" r="8" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="564.94" y="452.00" width="16.00" height="16.00" fill="#DBA640"/>
+<polygon points="628.60,451.00 619.60,468.00 637.60,468.00" fill="#17324D"/>
+<text x="980.00" y="466.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">1.650</text>
+<text x="1085.00" y="466.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="end">1.941</text>
+<text x="1190.00" y="466.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">2.405</text>
+<text x="60.00" y="522.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start">Little Millet</text>
+<text x="60.00" y="543.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start">Dehulled grain | 5,000 kg | Sea LCL</text>
+<line x1="589.53" y1="520.00" x2="811.93" y2="520.00" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="589.53" cy="520.00" r="8" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="649.94" y="512.00" width="16.00" height="16.00" fill="#DBA640"/>
+<polygon points="811.93,511.00 802.93,528.00 820.93,528.00" fill="#17324D"/>
+<text x="980.00" y="526.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">2.079</text>
+<text x="1085.00" y="526.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="end">2.649</text>
+<text x="1190.00" y="526.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">3.933</text>
+<text x="60.00" y="655.00" fill="#17324D" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="bold" text-anchor="start">Spices | separate axis: AUD 0 to 60/kg</text>
+<text x="980.00" y="655.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end">Low</text>
+<text x="1085.00" y="655.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end">Base</text>
+<text x="1190.00" y="655.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" text-anchor="end">High</text>
+<line x1="340.00" y1="683.00" x2="340.00" y2="815.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="340.00" y="841.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">0</text>
+<line x1="475.00" y1="683.00" x2="475.00" y2="815.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="475.00" y="841.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">15</text>
+<line x1="610.00" y1="683.00" x2="610.00" y2="815.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="610.00" y="841.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">30</text>
+<line x1="745.00" y1="683.00" x2="745.00" y2="815.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="745.00" y="841.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">45</text>
+<line x1="880.00" y1="683.00" x2="880.00" y2="815.00" stroke="#DDE5E9" stroke-width="1"/>
+<text x="880.00" y="841.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">60</text>
+<line x1="340.00" y1="815.00" x2="880.00" y2="815.00" stroke="#8198AA" stroke-width="1"/>
+<text x="610.00" y="867.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="middle">AUD per shipped kg</text>
+<text x="60.00" y="706.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start">Red chilli</text>
+<text x="60.00" y="727.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start">Ground chilli | 1,000 kg | Sea LCL</text>
+<line x1="402.34" y1="704.00" x2="457.41" y2="704.00" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="402.34" cy="704.00" r="8" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="406.22" y="696.00" width="16.00" height="16.00" fill="#DBA640"/>
+<polygon points="457.41,695.00 448.41,712.00 466.41,712.00" fill="#17324D"/>
+<text x="980.00" y="710.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">6.927</text>
+<text x="1085.00" y="710.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="end">8.247</text>
+<text x="1190.00" y="710.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">13.045</text>
+<text x="60.00" y="771.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" text-anchor="start">Cardamom</text>
+<text x="60.00" y="792.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="normal" text-anchor="start">Whole green pods | 1,000 kg | Sea LCL</text>
+<line x1="609.92" y1="769.00" x2="853.10" y2="769.00" stroke="#E9F0F2" stroke-width="10"/>
+<circle cx="609.92" cy="769.00" r="8" fill="#FFFFFF" stroke="#238B87" stroke-width="3"/>
+<rect x="712.34" y="761.00" width="16.00" height="16.00" fill="#DBA640"/>
+<polygon points="853.10,760.00 844.10,777.00 862.10,777.00" fill="#17324D"/>
+<text x="980.00" y="775.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">29.991</text>
+<text x="1085.00" y="775.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" text-anchor="end">42.260</text>
+<text x="1190.00" y="775.00" fill="#233142" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="normal" text-anchor="end">57.011</text>
+<text x="60.00" y="914.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Source: v4 Cost Build!AD7:AD30; product context: Product Register!A7:E14.</text>
+<text x="60.00" y="939.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Kodo Low/High are price-only sensitivities; Sorghum Base uses disclosed input midpoints.</text>
+<text x="60.00" y="964.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Indicative assumptions, not quotations or confidence intervals. Historical cases remain separate in the workbook.</text>
+<text x="60.00" y="989.00" fill="#617182" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="normal" text-anchor="start">Different forms, order sizes and routes prevent a direct product-opportunity ranking.</text>
+</svg>
